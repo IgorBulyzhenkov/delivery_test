@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\Api;
 
-use App\Http\Requests\ParcelsRequest;
+use App\Http\Requests\Api\ParcelsRequest;
 use App\Models\Api\Parcels;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
